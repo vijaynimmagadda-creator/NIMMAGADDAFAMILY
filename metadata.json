@@ -1,0 +1,11 @@
+{
+  "name": "Nimmagadda Family Hub",
+  "description": "An interactive digital family tree, shared announcements, memory wall, photo gallery, event planner, and chat room for the Nimmagadda family.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
